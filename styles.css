@@ -1,0 +1,21 @@
+
+#wrapper{
+    background-color: gray;
+    height: 1000px auto;
+    width: auto;
+}
+
+#pokemon_list{
+    display: inline-block;
+    width: 600px;
+    height: 1000px auto;
+    background-color: #4291e2;
+}
+
+#pokedex{
+    display: inline-block;
+    width: 400px;
+    height: 1000px;
+    background-color: orange;
+    vertical-align: top;
+}
